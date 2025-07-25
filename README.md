@@ -52,3 +52,6 @@ Built under tight deadlines with real-world API integration and deployed archite
 
 ## 📩 Contact  
 For questions or collaboration: inteegrus.research@gmail.com
+
+<img width="1198" height="885" alt="image" src="https://github.com/user-attachments/assets/8758503d-9453-4692-a017-3863a32aa954" />
+
